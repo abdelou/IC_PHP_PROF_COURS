@@ -95,12 +95,6 @@ class ProfCoursTest extends TestCase
             new Cours("Cours6", "2", 4),       // idcours = 6
            
 
-            /**
-             *
-             * Question 7 : Insérer les enregistrements suivantes dans la table cours
-             *
-             */
-
         ];
 
     }
