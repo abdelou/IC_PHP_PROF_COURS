@@ -10,6 +10,7 @@ class ProfCoursTest extends TestCase
 
     //   #######    DO NOT CHANGE THIS     #########
     const FAKE_DBNAME = "##DB_NAME##";
+    //  
     const SQL_FILE = "db.sql";
 
     //  #######    CHANGE THIS TO HAVE CREDENTIAL OF YOUR DATABASE       ##########
