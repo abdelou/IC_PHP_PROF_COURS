@@ -71,8 +71,9 @@ class ProfCoursTest extends TestCase
              ok 
              *
              */
-
-
+            new Prof("Nom_prof1", "Prenom_prof1", "10/01/1982", "lieu_prof1"), 
+            new Prof("Nom_prof2", "Prenom_prof2", "10/02/1982", "lieu_prof2"), 
+            new Prof("Nom_prof3", "Prenom_prof3", "10/03/1982", "lieu_prof3"), 
             new Prof("Nom_prof4", "Prenom_prof4", "10/04/1982", "lieu_prof4"),      // idprof = 4
             new Prof("Nom_prof5", "Prenom_prof5", "10/05/1982", "lieu_prof5"),      // idprof = 5
             new Prof("Nom_prof6", "Prenom_prof6", "10/06/1982", "lieu_prof6"),      // idprof = 6
