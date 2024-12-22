@@ -68,6 +68,7 @@ class ProfCoursTest extends TestCase
             /**
              *
              * Question 6 : Insérer les enregistrements suivantes dans la table prof
+             ok 
              *
              */
 
